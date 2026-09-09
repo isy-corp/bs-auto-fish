@@ -1,2 +1,2 @@
 1.0.0
-https://github.com/isy-corp/bs-auto-fish/releases/download/v1.0.0/script.exe
+https://github.com/isy-corp/bs-auto-fish/releases/download/v1.0.1/Pesca_Turbo.exe
